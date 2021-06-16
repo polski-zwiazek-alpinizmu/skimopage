@@ -7,4 +7,4 @@ draft: false
 ---
 
 ### Informacje
-http://kandahar.pl/21-puchar-pilska-w-skialpinizmie/
+[http://kandahar.pl/21-puchar-pilska-w-skialpinizmie](http://kandahar.pl/21-puchar-pilska-w-skialpinizmie)

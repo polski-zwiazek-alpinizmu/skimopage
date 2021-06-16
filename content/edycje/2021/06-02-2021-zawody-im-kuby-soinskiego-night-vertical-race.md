@@ -7,4 +7,4 @@ draft: false
 ---
 
 ### Informacje
-http://kandahar.pl/14-zawody-im-kuby-soinskiego-night-vertical-race/
+[http://kandahar.pl/14-zawody-im-kuby-soinskiego-night-vertical-race/](http://kandahar.pl/14-zawody-im-kuby-soinskiego-night-vertical-race/)

@@ -7,4 +7,4 @@ draft: false
 ---
 
 ### Informacje
-https://strzelecki.kw.krakow.pl/wyniki-2021/
+[https://strzelecki.kw.krakow.pl/wyniki-2021/](https://strzelecki.kw.krakow.pl/wyniki-2021/)
