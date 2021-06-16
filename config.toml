@@ -4,6 +4,8 @@ defaultContentLanguage = "pl"
 title = "SKIMO.pl"
 theme = 'hermit'
 disableKinds = ['RSS']
+[permalinks]
+  edycje = "sezon/:year/:slug"
 
 [params]
   dateform        = "Jan 2, 2006"
