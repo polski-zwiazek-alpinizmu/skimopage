@@ -1,4 +1,22 @@
 baseURL = "https://skimo.pl"
 languageCode = "pl-pl"
+defaultContentLanguage = "pl"
 title = "SKIMO.pl"
 theme = 'hermit'
+disableKinds = ['RSS']
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  homeSubtitle = "Strona dotycząca sportowego narciarstwa wysokogórskiego w Polsce."
+  [[params.social]]
+    name = "facebook"
+    url = "https://www.facebook.com/PucharPolskiWNarciarstwieWysokogorskim"
+
+[menu]
+  [[menu.main]]
+    name = "Puchar Polski"
+    url = "edycje/"
+    weight = 10
