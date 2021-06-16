@@ -2,9 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://skimo.pl/categories/</loc>
+    <loc>https://skimo.pl/edycje/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skimo.pl/edycje/2021/klasyfikacja-generalna-pucharu-polski/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://skimo.pl/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skimo.pl/edycje/2021/13-03-2021-memorial-jana-strzeleckiego/</loc>
+    <lastmod>2021-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skimo.pl/edycje/2021/20-02-2021-puchar-pilska/</loc>
+    <lastmod>2021-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skimo.pl/edycje/2021/06-02-2021-zawody-im-kuby-soinskiego-night-vertical-race/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://skimo.pl/categories/</loc>
   </url><url>
     <loc>https://skimo.pl/tags/</loc>
   </url>
