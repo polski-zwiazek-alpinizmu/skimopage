@@ -2,6 +2,7 @@
 title: "XXI Puchar Pilska"
 date: 2021-02-20
 publishdate: 2021-02-20
+category: [2021]
 draft: false
 ---
 

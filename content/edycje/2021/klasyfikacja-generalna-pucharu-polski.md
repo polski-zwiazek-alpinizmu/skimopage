@@ -2,6 +2,7 @@
 title: "Klasyfikacja generalna Pucharu Polski 2021"
 date: 2021-03-20
 publishdate: 2021-04-20
+category: [2021]
 draft: false
 ---
 
